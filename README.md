@@ -3,7 +3,7 @@
 This project demonstrates various authentication mechanisms for web crawling using the MuleSoft WebCrawler Connector. It consists of two sub-projects:
 
 1.  **`spring-authentication`**: A Spring Boot application that provides a set of web pages protected by different authentication methods.
-2.  **`wc-authentication`**: A Mule application that uses the MuleSoft WebCrawler Connector to crawl the pages served by the `spring-authentication` project, showcasing how to configure the connector for each authentication type.
+2.  **`mule-webcrawler-authentication`**: A Mule application that uses the MuleSoft WebCrawler Connector to crawl the pages served by the `spring-authentication` project, showcasing how to configure the connector for each authentication type.
 
 ---
 
